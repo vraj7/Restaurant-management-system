@@ -30,9 +30,8 @@ REST API lists
 -http://localhost:5000/api/restaurant
 http://localhost:5000/api/users/logout
 
-
+```
 Sample restauarant structure data
-.................................
 {
     "name": "malabar",
     "description": "test",
@@ -50,9 +49,8 @@ Sample restauarant structure data
             
         }]
 }
-.......................................
+```
 Register Data
-.............
 {
     "firstName": "sanjay",
     "lastName": "kumar",
